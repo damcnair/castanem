@@ -1,0 +1,145 @@
+{
+  "title": "Castanem",
+  "description": "<h2>Unwitting Victims</h2>\n<p>Through choppy waters, your ship sails through the night with a freezing chill penetrating through the thin decks under which you gather. The wind howls and the seas kick once again, nothing you haven’t become adjusted to on your voyage.</p>\n<p>You departed from a port on the eastern coast of the Kayron Theocracy, you and your traveling companions seemingly gaining passage for vastly different reasons. You haven’t talked to any of them, but it’s not like you’ll ever be seeing them again after the voyage so there’s not much reason too.</p>\n<p>Suddenly the ship lurches greater than ever before, you listen to the sound of the crew scrambling around, of people yelling over each other , and… singing? There’s a sudden flash of white, you think it’s light but you soon realize it’s the shock from a crash of icy water against your skin, the ship is sinking. You scramble for what precious belongings you have and make a break for the stairs, only to realize the ship has capsized, there’s nowhere to go, only the hole. You wait for the water to fill the ship and force your way through the passage that caused this mess. Your vision goes black, so cold, now so warm, and your consciousness fades. And then a hand breaks the waterline, you are pulled out alive. But for how long?</p>",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "Conditions (5eTools)",
+      "name": "conditions-5etools",
+      "path": "packs/conditions-5etools.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Expanded Rules (5eTools)",
+      "name": "expanded-rules-5etools",
+      "path": "packs/expanded-rules-5etools.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "JournalEntry",
+      "flags": {}
+    },
+    {
+      "label": "Deities",
+      "name": "deities",
+      "path": "packs/deities.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "JournalEntry",
+      "flags": {}
+    },
+    {
+      "label": "Misc Tables (5eTools)",
+      "name": "misc-tables-5etools",
+      "path": "packs/misc-tables-5etools.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "RollTable",
+      "flags": {}
+    },
+    {
+      "label": "Classes (Homebrew)",
+      "name": "classes-homebrew",
+      "path": "packs/classes-homebrew.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Class Features (Homebrew)",
+      "name": "class-features-homebrew",
+      "path": "packs/class-features-homebrew.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Races (Homebrew)",
+      "name": "races-homebrew",
+      "path": "packs/races-homebrew.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Misc Tables",
+      "name": "misc-tables",
+      "path": "packs/misc-tables.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "RollTable",
+      "flags": {}
+    },
+    {
+      "label": "Misc Features (Homebrew)",
+      "name": "misc-features-homebrew",
+      "path": "packs/misc-features-homebrew.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Deities (Castanem)",
+      "name": "deities-castanem",
+      "path": "packs/deities-castanem.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "JournalEntry",
+      "flags": {}
+    },
+    {
+      "label": "Spells (5eTools)",
+      "name": "spells-5etools",
+      "path": "packs/spells-5etools.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Spells (Kibbles)",
+      "name": "spells-kibbles",
+      "path": "packs/spells-kibbles.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Combat Maneuvers",
+      "name": "combat-maneuvers",
+      "path": "packs/combat-maneuvers.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Items (Griffons)",
+      "name": "items-griffons",
+      "path": "packs/items-griffons.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    }
+  ],
+  "system": "dnd5e",
+  "background": "https://assets.forge-vtt.com/5fb68331ec470b7aaf634c04/Game%20Banners/login-screen.jpg",
+  "coreVersion": "10.291",
+  "nextSession": "2021-11-13T23:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.2.1",
+  "compatibility": {
+    "verified": "10.291",
+    "minimum": "10"
+  },
+  "id": "castanem"
+}
